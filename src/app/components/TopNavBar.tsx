@@ -21,7 +21,6 @@ export const TopNavBar = () => {
         <Link href="/">
         <span className="text-primary pb-2 text-4xl font-bold lg:text-2xl">ProResume</span>
         </Link>
-        <span className="text-primary pb-2 text-xl font-bold lg:text-xl">Developed by Nasir, Aatif, Vishal, Ahsan</span>
       </div>
     </header>
   );
